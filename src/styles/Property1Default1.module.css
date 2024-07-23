@@ -1,0 +1,199 @@
+.frameChild {
+  position: absolute;
+  top: 318px;
+  left: calc(50% - 802.6px);
+  box-shadow: 0 68.8px 61.15px rgba(34, 33, 100, 0.12) inset;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-200);
+  border: 1px solid var(--color-midnightblue-200);
+  box-sizing: border-box;
+  width: 1605.2px;
+  height: 1605.2px;
+}
+.groupChild {
+  position: absolute;
+  top: 47.5px;
+  left: -20.6px;
+  border-radius: 45.85px;
+  background-color: var(--color-slateblue);
+  width: 185.1px;
+  height: 185.1px;
+  overflow: hidden;
+  transform: rotate(-7.6deg);
+  transform-origin: 0 0;
+  display: none;
+}
+.frameParent,
+.groupItem {
+  position: absolute;
+  width: 230px;
+  height: 230px;
+}
+.groupItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-781xl);
+  overflow: hidden;
+  object-fit: contain;
+}
+.frameParent {
+  top: 410.3px;
+  left: 1250.1px;
+}
+.frameIcon,
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 792px;
+  border-radius: 111.19px;
+  width: 248.8px;
+  height: 248.8px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.frameItem {
+  right: 0.2px;
+}
+.frameIcon,
+.frameInner {
+  left: 0;
+}
+.frameIcon {
+  top: 400.9px;
+  left: 182px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 120px;
+  left: calc(50% - 840px);
+  width: 1680px;
+  height: 1953px;
+}
+.meetOurStarclinch {
+  position: absolute;
+  top: 120px;
+  left: calc(50% - 317px);
+}
+.property1defaultChild {
+  position: absolute;
+  top: 298px;
+  left: calc(50% - 150px);
+  border-radius: var(--br-13xl);
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.div {
+  position: relative;
+}
+.wrapper {
+  top: 0;
+  left: 490px;
+  backdrop-filter: blur(59px);
+  border-radius: var(--br-65xl);
+  background-color: var(--color-whitesmoke);
+  width: 55px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+}
+.container,
+.frameGroup,
+.wrapper {
+  position: absolute;
+  height: 55px;
+}
+.container {
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(59px);
+  border-radius: var(--br-65xl);
+  background-color: var(--color-whitesmoke);
+  width: 55px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs);
+  box-sizing: border-box;
+}
+.frameGroup {
+  top: 432.7px;
+  left: 687.5px;
+  width: 545px;
+  font-size: var(--font-size-9xl);
+}
+.membersWrapper {
+  border-radius: var(--br-40xl);
+  background: linear-gradient(180deg, #205f5f, rgba(8, 8, 16, 0));
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-5xl);
+}
+.designDynamos,
+.theArtistsBehind {
+  align-self: stretch;
+  position: relative;
+}
+.theArtistsBehind {
+  font-size: var(--body-1-size);
+  opacity: 0.5;
+}
+.designDynamosParent,
+.frameDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.designDynamosParent {
+  width: 763px;
+  gap: var(--gap-base);
+  font-size: var(--heading-2-size);
+}
+.frameDiv {
+  gap: var(--gap-5xl);
+}
+.groupIcon {
+  width: 28px;
+  position: relative;
+  height: 28px;
+  object-fit: contain;
+}
+.frameContainer,
+.ourDesignTeamIsGrowingApParent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ourDesignTeamIsGrowingApParent {
+  flex-direction: row;
+  gap: var(--gap-3xs);
+  color: var(--color-mediumturquoise);
+}
+.frameContainer {
+  position: absolute;
+  top: 682px;
+  left: calc(50% - 381.5px);
+  flex-direction: column;
+  gap: var(--gap-29xl);
+  font-size: var(--body-1-size);
+}
+.property1default {
+  width: 1920px;
+  box-shadow: 0-80px 90px #080810 inset;
+  background-color: var(--color-gray-200);
+  max-width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--heading-2-size);
+  color: var(--color-white);
+  font-family: var(--heading-2);
+}

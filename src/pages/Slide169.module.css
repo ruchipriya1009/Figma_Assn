@@ -1,0 +1,24 @@
+.slide1691Child {
+  position: absolute;
+  top: 7822.3px;
+  left: -4px;
+  border-radius: 0 var(--br-381xl) 0 0;
+  background: linear-gradient(
+    167.09deg,
+    rgba(174, 57, 153, 0.99),
+    rgba(213, 80, 80, 0)
+  );
+  width: 457.2px;
+  height: 667.2px;
+  overflow: hidden;
+  transform: rotate(-0.5deg);
+  transform-origin: 0 0;
+  opacity: 0.53;
+}
+.slide1691 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-200);
+  height: 8458px;
+  overflow: hidden;
+}

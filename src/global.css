@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Pen:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --heading-2: Inter;
+  --font-nanum-pen: "Nanum Pen";
+
+  /* font sizes */
+  --body-1-size: 24px;
+  --font-size-20xl: 39px;
+  --font-size-77xl: 96px;
+  --font-size-5xl-4: 24.4px;
+  --heading-2-size: 48px;
+  --heading-1-size: 64px;
+  --font-size-9xl: 28px;
+  --font-size-85xl: 104px;
+  --font-size-13xl: 32px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-gray-100: #1e1e1e;
+  --color-gray-200: #080810;
+  --color-gray-300: rgba(255, 255, 255, 0.5);
+  --color-gray-400: rgba(255, 255, 255, 0.06);
+  --color-gray-500: rgba(255, 255, 255, 0.4);
+  --color-mistyrose: #e7cccc;
+  --color-white: #fff;
+  --color-hotpink: #ff71a7;
+  --color-black: #000;
+  --color-mediumturquoise: #58d1d3;
+  --color-whitesmoke: rgba(237, 237, 237, 0.1);
+  --color-slateblue: rgba(100, 93, 191, 0.3);
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(217, 217, 217, 0.01);
+  --color-midnightblue-100: rgba(34, 33, 99, 0.5);
+  --color-midnightblue-200: rgba(34, 33, 100, 0.5);
+  --color-dimgray: rgba(98, 99, 106, 0.03);
+  --color-lavender: #e4e7ff;
+
+  /* Gaps */
+  --gap-29xl: 48px;
+  --gap-13xl: 32px;
+  --gap-75xl-3: 94.3px;
+  --gap-12xl-4: 31.4px;
+  --gap-6xl: 25px;
+  --gap-4xs-1: 8.1px;
+  --gap-3xs: 10px;
+  --gap-5xl: 24px;
+  --gap-base: 16px;
+  --gap-61xl: 80px;
+  --gap-4xs-9: 8.9px;
+  --gap-11xl-3: 30.3px;
+  --gap-12xl-9: 31.9px;
+
+  /* Paddings */
+  --padding-101xl: 120px;
+  --padding-base: 16px;
+  --padding-29xl: 48px;
+  --padding-75xl-3: 94.3px;
+  --padding-5xs: 8px;
+  --padding-5xl: 24px;
+  --padding-41xl: 60px;
+  --padding-64xl: 83px;
+  --padding-lg: 18px;
+
+  /* Border radiuses */
+  --br-781xl: 800px;
+  --br-93xl-2: 112.2px;
+  --br-8981xl: 9000px;
+  --br-181xl: 200px;
+  --br-381xl: 400px;
+  --br-1189xl-6: 1208.6px;
+  --br-40xl: 59px;
+  --br-65xl: 84px;
+  --br-13xl: 32px;
+  --br-92xl-2: 111.2px;
+  --br-26xl-9: 45.9px;
+  --br-16xl-2: 35.2px;
+  --br-18xl-9: 37.9px;
+  --br-smi-2: 12.2px;
+  --br-728xl-9: 747.9px;
+  --br-27xl: 46px;
+  --br-42xl-8: 61.8px;
+  --br-881xl: 900px;
+  --br-659xl-8: 678.8px;
+}

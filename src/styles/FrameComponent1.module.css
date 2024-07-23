@@ -1,0 +1,15 @@
+.frameChild,
+.vectorParent {
+  position: absolute;
+  top: 0;
+  left: 467.9px;
+  width: 1057.8px;
+  height: 2426.5px;
+}
+.vectorParent {
+  top: 2112px;
+  left: -103px;
+  width: 1920px;
+  height: 2505px;
+  overflow: hidden;
+}
